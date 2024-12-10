@@ -1,0 +1,136 @@
+/* Configurações Gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(180deg, #ffe5ec, #ffffff);
+    color: #444;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #ff7a85;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header .logo {
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+header .nav-links a:hover {
+    color: #ffe5ec;
+}
+
+
+/* Hero Section */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 20px;
+    max-width: 1200px;
+    margin: 100px auto 0;
+    gap: 20px;
+}
+
+.hero-content {
+    max-width: 50%;
+    animation: fadeInLeft 1s ease-in-out;
+}
+
+.hero-title {
+    font-size: 3em;
+    color: #d43857;
+}
+
+.hero-subtitle {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.cta-button {
+    padding: 10px 20px;
+    background-color: #ff7a85;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.cta-button:hover {
+    transform: scale(1.1);
+    background-color: #ff5a6c;
+}
+
+.hero-image img {
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    animation: float 4s ease-in-out infinite;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ff7a85;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 0.9em;
+}
+
+/* Animações */
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}

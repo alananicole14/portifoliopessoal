@@ -1,0 +1,129 @@
+/* Configurações Gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(180deg, #ffffff, #fff5f7);
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #ff85a1;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header .logo {
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+header .nav-links a:hover {
+    color: #ffccdc;
+}
+
+/* Seção de Educação */
+.education {
+    padding: 120px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.education-header {
+    margin-bottom: 50px;
+}
+
+.section-title {
+    font-size: 2.5em;
+    color: #d43857;
+    margin-bottom: 10px;
+}
+
+.education-timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.timeline-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    background: #ffe5ec;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+}
+
+.timeline-icon {
+    font-size: 2.5em;
+    color: #ff85a1;
+}
+
+.timeline-content h3 {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.timeline-content p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ff85a1;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 0.9em;
+}
+
+/* Animações */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
