@@ -14,9 +14,9 @@ Sou estudante de Análise de Sistemas e Dados, movido pela paixão por tecnologi
 
 🔍 Sempre em busca de novos aprendizados
 
-💡 Explorando desenvolvimento FULLSTAK e análise de dados
+💡 Explorando desenvolvimento backend e análise de dados
 
-🌱 Atualmente estudando Python, JAVA e JavaScript
+🌱 Atualmente estudando Python, CSS, JAVA e JavaScript
 
 🎯 Foco em crescer como desenvolvedor e analista de dados 
 
