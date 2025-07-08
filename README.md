@@ -1,31 +1,55 @@
-Olá, eu sou [ALANA] 👋
+# Portfólio de Alana Nicole Procópio de Brito
 
-💻 Estudante de Análise de Sistemas e Dados | Apaixonado por Tecnologia
+Bem-vindo ao meu portfólio! Sou **Alana Nicole Procópio de Brito**, uma desenvolvedora web apaixonada por aprender e aplicar novas tecnologias. Este repositório  que demonstram minhas habilidades tanto em **desenvolvimento frontend** quanto **backend**.
 
-Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha jornada de aprendizado na área de tecnologia, com foco em desenvolvimento de sistemas, análise de dados e programação.
+### 🚀 Objetivo
 
+Atuar como desenvolvedora web, focando na criação de soluções eficientes e escaláveis. Estou constantemente aprendendo e me aprimorando em diversas tecnologias, especialmente **JavaScript**, **React**, **Python**, **Java** e **Power BI**.
 
+### 🛠️ Tecnologias e Ferramentas
 
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Python, Java, SQL
+- **Banco de Dados**: MySQL, PostgreSQL
+- **Versionamento de Código**: Git, GitHub
+- **Ferramentas de BI**: Power BI
+- **Frameworks**: Express.js, React
 
+### 📂 Projetos
 
-🧠 Sobre Mim
+1. **[Portfólio Pessoal](https://alananicole14.github.io/portifolioalana/index.html)**
+   - Um portfólio responsivo desenvolvido para exibir minhas habilidades, trajetória profissional e projetos.
+   - **Tecnologias utilizadas**: HTML, CSS, JavaScript.
 
-Sou estudante de Análise de Sistemas e Dados, movido pela paixão por tecnologia e pelo desejo constante de aprofundar meus conhecimentos. Meu objetivo é crescer na área, desenvolvendo soluções inovadoras que possam impactar o mundo digital.
+> **Nota**: Todos os projetos aqui são desenvolvidos com o objetivo de ampliar minha experiência e mostrar o que aprendi em meu caminho de desenvolvimento. Sinta-se à vontade para explorar e sugerir melhorias!
 
-🔍 Sempre em busca de novos aprendizados
+### 💬 Como me encontrar?
 
-💡 Explorando desenvolvimento backend e análise de dados
+- **LinkedIn**: [linkedin.com/in/alananicole](https://linkedin.com/in/alananicole)
+- **GitHub**: [github.com/alananicole14](https://github.com/alananicole14)
+- **E-mail**: alana.p321@gmail.com
 
-🌱 Atualmente estudando Python, CSS, JAVA e JavaScript
+### 📚 Formação Acadêmica
 
-🎯 Foco em crescer como desenvolvedor e analista de dados 
+- **Análise e Desenvolvimento de Sistemas** – Uninter (Cursando, 3º semestre)
 
+### 📝 Certificações
 
+- **Certificado de Power BI** – Curso de Visualização de Dados
+- **Certificação em Desenvolvimento Web** – (Indicar curso ou plataforma, se houver)
 
-📫 Como me encontrar?
+### 🔧 O que estou aprendendo agora?
 
-LinkedIn: https://www.linkedin.com/in/alana-nicole-ii-b3a9b0268/
+- **React.js** para criação de interfaces de usuário dinâmicas.
+- **Node.js** e **Express.js** para desenvolvimento backend.
+- Aprofundando meus conhecimentos em **SQL** e **Banco de Dados**.
 
-E-mail: alana.p321@gmail.com
+### ⚡ Curiosidades
 
-Vamos juntos construir algo incrível! 🚀
+- Sou apaixonada por **tecnologia** e **inovação**.  
+- Adoro aprender e me desafiar constantemente.
+
+---
+
+**Obrigado por visitar meu perfil!**
+
