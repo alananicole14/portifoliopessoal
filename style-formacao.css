@@ -87,23 +87,27 @@ header .nav-links a:hover {
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     animation: fadeIn 1s ease-in-out;
+    text-align: center;
 }
 
 .timeline-icon {
     font-size: 2.5em;
     color: #ff85a1;
+    
 }
 
 .timeline-content h3 {
     font-size: 1.8em;
     color: #333;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 .timeline-content p {
     font-size: 1em;
     line-height: 1.6;
     color: #555;
+    text-align: center;
 }
 
 /* Rodapé */
@@ -127,3 +131,4 @@ footer {
         transform: translateY(0);
     }
 }
+
